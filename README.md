@@ -1,7 +1,7 @@
 ## Hi there 👋
 # this is Raza Ali
 
-Software Engineer building scalable web applications.
+Software Engineer building scalable web & mobile applications.
 
 ---
 
