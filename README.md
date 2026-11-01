@@ -6,7 +6,7 @@ Software Engineer building scalable web & mobile applications.
 ---
 
 ### Stack
-TypeScript · React · Next.js · Node.js · Postgres · MongoDB · Docker · JavaScript
+TypeScript · React · Next.js · Node.js · Postgres · MongoDB · Docker · JavaScript · Python
 
 ### Currently learning
 C++ · DSA · System Design
